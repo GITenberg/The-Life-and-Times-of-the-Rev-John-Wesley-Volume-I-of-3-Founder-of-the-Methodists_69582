@@ -1,0 +1,30 @@
+_repo: The-Life-and-Times-of-the-Rev-John-Wesley-Volume-I-of-3-Founder-of-the-Methodists_69582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tyerman, L. (Luke)
+    alias: Tyerman, Luke
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '42671'
+    url: http://www.gutenberg.org/2009/agents/42671
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69582'
+language: en
+pgterms:marc904: https://archive.org/details/lifetimesofrevjo01tyeruoft/page/n7
+pgterms:marc905: 20190219095703tyerman
+pgterms:marc906: '1872'
+production_note: Brian Wilson, Les Galloway, MFR and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: Harper & Brothers, Publishers,1872.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life and Times of the Rev. John Wesley, Volume I (of 3): Founder of the
+  Methodists'
+url: http://www.gutenberg.org/ebooks/69582
